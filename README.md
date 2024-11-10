@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="200" src="<a href='https://pngtree.com/freepng/student-on-computer-vector_11055567.html'>png image from pngtree.com/</a>"  />
+  <img height="200" src="student.png" />
 </div>
 
 ###
