@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="200" src="student.png" />
+  <img height="500" src="student.png" />
 </div>
 
 ###
