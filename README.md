@@ -36,6 +36,12 @@ Here are some ideas to get you started:
 
 ###
 
+
+
+| S.No | Project Name           | Description                            | Link                |
+|------|------------------------|----------------------------------------|---------------------|
+| 1   | Air Monitoring system with  IOT| NA | NA |
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="15" />
