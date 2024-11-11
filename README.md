@@ -34,16 +34,11 @@ Here are some ideas to get you started:
 </div>
 
 
-###
-
-  
-   |Project Name            | Description                              |
-   |------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-     Operating system               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="15" />
+###       
 
 <div align="center">
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
